@@ -1,11 +1,17 @@
+target/
+target/*
+target/**
 /target/
+/target/**
 */target/**
+*/target/**/**
 **/META-INF/
 !.mvn/wrapper/maven-wrapper.jar
 
 ## source_link: https://stackoverflow.com/a/61920706
 ### IntelliJ IDEA ###
 .idea
+.idea/**
 *.iws
 *.iml
 *.ipr
